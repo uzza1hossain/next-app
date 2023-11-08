@@ -1,1 +1,1 @@
-// todo: add GET, PUT, DELETE endpoint
+// TODO: add GET, PUT, DELETE endpoint
